@@ -1,0 +1,313 @@
+Module : iexplore.exe                       | 0x00140000 -- 0x001E6000 enumerated!
+Module : ntdll.dll                          | 0x77830000 -- 0x7796C000 enumerated!
+Module : kernel32.dll                       | 0x76D50000 -- 0x76E24000 enumerated!
+Module : KERNELBASE.dll                     | 0x75C30000 -- 0x75C7A000 enumerated!
+Module : ADVAPI32.dll                       | 0x76F60000 -- 0x77000000 enumerated!
+Module : msvcrt.dll                         | 0x77530000 -- 0x775DC000 enumerated!
+Module : sechost.dll                        | 0x77600000 -- 0x77619000 enumerated!
+Module : RPCRT4.dll                         | 0x779B0000 -- 0x77A51000 enumerated!
+Module : USER32.dll                         | 0x75E10000 -- 0x75ED9000 enumerated!
+Module : GDI32.dll                          | 0x777E0000 -- 0x7782E000 enumerated!
+Module : LPK.dll                            | 0x77970000 -- 0x7797A000 enumerated!
+Module : USP10.dll                          | 0x76E70000 -- 0x76F0D000 enumerated!
+Module : SHLWAPI.dll                        | 0x77000000 -- 0x77057000 enumerated!
+Module : SHELL32.dll                        | 0x75EE0000 -- 0x76B29000 enumerated!
+Module : ole32.dll                          | 0x77620000 -- 0x7777C000 enumerated!
+Module : iertutil.dll                       | 0x772A0000 -- 0x77499000 enumerated!
+Module : urlmon.dll                         | 0x76C00000 -- 0x76D35000 enumerated!
+Module : OLEAUT32.dll                       | 0x774A0000 -- 0x7752F000 enumerated!
+Module : CRYPT32.dll                        | 0x75AC0000 -- 0x75BDC000 enumerated!
+Module : MSASN1.dll                         | 0x759F0000 -- 0x759FC000 enumerated!
+Module : IMM32.DLL                          | 0x775E0000 -- 0x775FF000 enumerated!
+Module : MSCTF.dll                          | 0x76B30000 -- 0x76BFC000 enumerated!
+Module : MCEDP.DLL                          | 0x70B50000 -- 0x70B81000 enumerated!
+Module : WS2_32.dll                         | 0x76E30000 -- 0x76E65000 enumerated!
+Module : NSI.dll                            | 0x76D40000 -- 0x76D46000 enumerated!
+Module : CRYPTSP.dll                        | 0x75380000 -- 0x75396000 enumerated!
+Module : rsaenh.dll                         | 0x751A0000 -- 0x751DB000 enumerated!
+Module : CRYPTBASE.dll                      | 0x758D0000 -- 0x758DC000 enumerated!
+Breakpoint On | TID : 00000FBC - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 000003BC - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x000003BC	-- Count(0)!
+Functions hooked successfully!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(1)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(2)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(3)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(4)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(5)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(6)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(7)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(8)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(9)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(10)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(11)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(12)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(13)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(14)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(15)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(16)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(17)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(18)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(19)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(20)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(21)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(22)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(23)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(24)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(25)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(26)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(27)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(28)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(29)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(30)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(31)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(32)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(33)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(34)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(35)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(36)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(37)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(38)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(39)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(40)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(41)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(42)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(43)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(44)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(45)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(46)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(47)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(48)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(49)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(50)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(51)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(52)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(53)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(54)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(55)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(56)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(57)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(58)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(59)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(60)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(61)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(62)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(63)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(64)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(65)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(66)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(67)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(68)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(69)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(70)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(71)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(72)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(73)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(74)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(75)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(76)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(77)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(78)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(79)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(80)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(81)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(82)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(83)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(84)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(85)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(86)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(87)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(88)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(89)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(90)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(91)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(92)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(93)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(94)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(95)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(96)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(97)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(98)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(99)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(100)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(101)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(102)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(103)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(104)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(105)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(106)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(107)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(108)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(109)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(110)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(111)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(112)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(113)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(114)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(115)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(116)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(117)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(118)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(119)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(120)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(121)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(122)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(123)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(124)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(125)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(126)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(127)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(128)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(129)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(130)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(131)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(132)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(133)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(134)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(135)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(136)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(137)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(138)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(139)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(140)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(141)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(142)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(143)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(144)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(145)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(146)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(147)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(148)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(149)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(150)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(151)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(152)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(153)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(154)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(155)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(156)!
+Breakpoint On | TID : 00000F10 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 00000C64 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 00000D14 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(157)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000FBC	-- Count(158)!
+Breakpoint On | TID : 000009C4 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(159)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(160)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(161)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(162)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(163)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(164)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(165)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(166)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(167)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(168)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(169)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(170)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(171)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(172)!
+Breakpoint On | TID : 00000E38 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 00000BE0 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 00000994 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000994	-- Count(173)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000994	-- Count(174)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(175)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(176)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(177)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(178)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(179)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(180)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(181)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(182)!
+Breakpoint On | TID : 00000F74 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(183)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(184)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(185)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(186)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(187)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(188)!
+Breakpoint On | TID : 00000798 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(189)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(190)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(191)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(192)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(193)!
+Breakpoint On | TID : 00000C04 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Breakpoint On | TID : 00000AE4 - Dr0 - Len : 4 - Condition : HW_ON_ACCESS!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000AE4	-- Count(194)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000AE4	-- Count(195)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(196)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(197)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(198)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(199)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(200)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(201)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(202)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(203)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(204)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(205)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(206)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(207)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(208)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(209)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(210)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(211)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(212)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(213)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(214)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(215)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(216)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(217)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(218)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(219)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(220)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(221)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(222)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(223)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(224)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(225)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(226)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(227)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(228)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(229)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(230)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(231)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(232)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(233)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(234)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(235)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(236)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(237)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(238)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(239)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(240)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(241)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(242)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(243)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(244)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(245)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(246)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(247)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(248)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(249)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(250)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(251)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(252)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(253)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(254)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(255)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(256)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(257)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(258)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(259)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(260)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(261)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(262)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(263)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(264)!
+Accessing EA @7788C670 (C:\Windows\SYSTEM32\ntdll.dll) | TID : 0x00000D14	-- Count(265)!
+ROP Detected by STACK_MONITOR, out of bound stack!
+Accessing EA @0C0C104D (UNKNOWN MODULE - POSSIBLE SHELLCODE) | TID : 0x00000D14	-- Count(266)!
+Shellcode flag set successfully!
+Shellcode Dumped from (0x0C0C0E4D -- 0x0C0C124D) Size ( 0x00000400 )
+Shellcode disassembled successfully!

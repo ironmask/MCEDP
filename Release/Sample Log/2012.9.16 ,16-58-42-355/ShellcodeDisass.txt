@@ -1,0 +1,595 @@
+0c0c0e4d (01) 4f                       DEC EDI
+0c0c0e4e (02) b349                     MOV BL, 0x49
+0c0c0e50 (01) d6                       SALC
+0c0c0e51 (01) 4f                       DEC EDI
+0c0c0e52 (02) b349                     MOV BL, 0x49
+0c0c0e54 (01) d6                       SALC
+0c0c0e55 (01) 4f                       DEC EDI
+0c0c0e56 (02) b349                     MOV BL, 0x49
+0c0c0e58 (01) d6                       SALC
+0c0c0e59 (01) 4f                       DEC EDI
+0c0c0e5a (02) b349                     MOV BL, 0x49
+0c0c0e5c (01) d6                       SALC
+0c0c0e5d (01) 4f                       DEC EDI
+0c0c0e5e (02) b349                     MOV BL, 0x49
+0c0c0e60 (01) d6                       SALC
+0c0c0e61 (01) 4f                       DEC EDI
+0c0c0e62 (02) b349                     MOV BL, 0x49
+0c0c0e64 (01) d6                       SALC
+0c0c0e65 (01) 4f                       DEC EDI
+0c0c0e66 (02) b349                     MOV BL, 0x49
+0c0c0e68 (01) d6                       SALC
+0c0c0e69 (01) 4f                       DEC EDI
+0c0c0e6a (02) b349                     MOV BL, 0x49
+0c0c0e6c (01) d6                       SALC
+0c0c0e6d (01) 4f                       DEC EDI
+0c0c0e6e (02) b349                     MOV BL, 0x49
+0c0c0e70 (01) d6                       SALC
+0c0c0e71 (01) 4f                       DEC EDI
+0c0c0e72 (02) b349                     MOV BL, 0x49
+0c0c0e74 (01) d6                       SALC
+0c0c0e75 (01) 4f                       DEC EDI
+0c0c0e76 (02) b349                     MOV BL, 0x49
+0c0c0e78 (01) d6                       SALC
+0c0c0e79 (01) 4f                       DEC EDI
+0c0c0e7a (02) b349                     MOV BL, 0x49
+0c0c0e7c (01) d6                       SALC
+0c0c0e7d (01) 4f                       DEC EDI
+0c0c0e7e (02) b349                     MOV BL, 0x49
+0c0c0e80 (01) d6                       SALC
+0c0c0e81 (01) 4f                       DEC EDI
+0c0c0e82 (02) b349                     MOV BL, 0x49
+0c0c0e84 (01) d6                       SALC
+0c0c0e85 (01) 4f                       DEC EDI
+0c0c0e86 (02) b349                     MOV BL, 0x49
+0c0c0e88 (01) d6                       SALC
+0c0c0e89 (01) 4f                       DEC EDI
+0c0c0e8a (02) b349                     MOV BL, 0x49
+0c0c0e8c (01) d6                       SALC
+0c0c0e8d (01) 4f                       DEC EDI
+0c0c0e8e (02) b349                     MOV BL, 0x49
+0c0c0e90 (01) d6                       SALC
+0c0c0e91 (01) 4f                       DEC EDI
+0c0c0e92 (02) b349                     MOV BL, 0x49
+0c0c0e94 (01) d6                       SALC
+0c0c0e95 (01) 4f                       DEC EDI
+0c0c0e96 (02) b349                     MOV BL, 0x49
+0c0c0e98 (01) d6                       SALC
+0c0c0e99 (01) 4f                       DEC EDI
+0c0c0e9a (02) b349                     MOV BL, 0x49
+0c0c0e9c (01) d6                       SALC
+0c0c0e9d (01) 4f                       DEC EDI
+0c0c0e9e (02) b349                     MOV BL, 0x49
+0c0c0ea0 (01) d6                       SALC
+0c0c0ea1 (01) 4f                       DEC EDI
+0c0c0ea2 (02) b349                     MOV BL, 0x49
+0c0c0ea4 (01) d6                       SALC
+0c0c0ea5 (01) 4f                       DEC EDI
+0c0c0ea6 (02) b349                     MOV BL, 0x49
+0c0c0ea8 (01) d6                       SALC
+0c0c0ea9 (01) 4f                       DEC EDI
+0c0c0eaa (02) b349                     MOV BL, 0x49
+0c0c0eac (01) d6                       SALC
+0c0c0ead (01) 4f                       DEC EDI
+0c0c0eae (02) b349                     MOV BL, 0x49
+0c0c0eb0 (01) d6                       SALC
+0c0c0eb1 (01) 4f                       DEC EDI
+0c0c0eb2 (02) b349                     MOV BL, 0x49
+0c0c0eb4 (01) d6                       SALC
+0c0c0eb5 (01) 4f                       DEC EDI
+0c0c0eb6 (02) b349                     MOV BL, 0x49
+0c0c0eb8 (01) d6                       SALC
+0c0c0eb9 (01) 4f                       DEC EDI
+0c0c0eba (02) b349                     MOV BL, 0x49
+0c0c0ebc (01) d6                       SALC
+0c0c0ebd (01) 4f                       DEC EDI
+0c0c0ebe (02) b349                     MOV BL, 0x49
+0c0c0ec0 (01) d6                       SALC
+0c0c0ec1 (01) 4f                       DEC EDI
+0c0c0ec2 (02) b349                     MOV BL, 0x49
+0c0c0ec4 (01) d6                       SALC
+0c0c0ec5 (01) 4f                       DEC EDI
+0c0c0ec6 (02) b349                     MOV BL, 0x49
+0c0c0ec8 (01) d6                       SALC
+0c0c0ec9 (01) 4f                       DEC EDI
+0c0c0eca (02) b349                     MOV BL, 0x49
+0c0c0ecc (01) d6                       SALC
+0c0c0ecd (01) 4f                       DEC EDI
+0c0c0ece (02) b349                     MOV BL, 0x49
+0c0c0ed0 (01) d6                       SALC
+0c0c0ed1 (01) 4f                       DEC EDI
+0c0c0ed2 (02) b349                     MOV BL, 0x49
+0c0c0ed4 (01) d6                       SALC
+0c0c0ed5 (01) 4f                       DEC EDI
+0c0c0ed6 (02) b349                     MOV BL, 0x49
+0c0c0ed8 (01) d6                       SALC
+0c0c0ed9 (01) 4f                       DEC EDI
+0c0c0eda (02) b349                     MOV BL, 0x49
+0c0c0edc (01) d6                       SALC
+0c0c0edd (01) 4f                       DEC EDI
+0c0c0ede (02) b349                     MOV BL, 0x49
+0c0c0ee0 (01) d6                       SALC
+0c0c0ee1 (01) 4f                       DEC EDI
+0c0c0ee2 (02) b349                     MOV BL, 0x49
+0c0c0ee4 (01) d6                       SALC
+0c0c0ee5 (01) 4f                       DEC EDI
+0c0c0ee6 (02) b349                     MOV BL, 0x49
+0c0c0ee8 (01) d6                       SALC
+0c0c0ee9 (01) 4f                       DEC EDI
+0c0c0eea (02) b349                     MOV BL, 0x49
+0c0c0eec (01) d6                       SALC
+0c0c0eed (01) 4f                       DEC EDI
+0c0c0eee (02) b349                     MOV BL, 0x49
+0c0c0ef0 (01) d6                       SALC
+0c0c0ef1 (01) 4f                       DEC EDI
+0c0c0ef2 (02) b349                     MOV BL, 0x49
+0c0c0ef4 (01) d6                       SALC
+0c0c0ef5 (01) 4f                       DEC EDI
+0c0c0ef6 (02) b349                     MOV BL, 0x49
+0c0c0ef8 (01) d6                       SALC
+0c0c0ef9 (01) 4f                       DEC EDI
+0c0c0efa (02) b349                     MOV BL, 0x49
+0c0c0efc (01) d6                       SALC
+0c0c0efd (01) 4f                       DEC EDI
+0c0c0efe (02) b349                     MOV BL, 0x49
+0c0c0f00 (01) d6                       SALC
+0c0c0f01 (01) 4f                       DEC EDI
+0c0c0f02 (02) b349                     MOV BL, 0x49
+0c0c0f04 (01) d6                       SALC
+0c0c0f05 (01) 4f                       DEC EDI
+0c0c0f06 (02) b349                     MOV BL, 0x49
+0c0c0f08 (01) d6                       SALC
+0c0c0f09 (01) 4f                       DEC EDI
+0c0c0f0a (02) b349                     MOV BL, 0x49
+0c0c0f0c (01) d6                       SALC
+0c0c0f0d (01) 4f                       DEC EDI
+0c0c0f0e (02) b349                     MOV BL, 0x49
+0c0c0f10 (01) d6                       SALC
+0c0c0f11 (01) 4f                       DEC EDI
+0c0c0f12 (02) b349                     MOV BL, 0x49
+0c0c0f14 (01) d6                       SALC
+0c0c0f15 (01) 4f                       DEC EDI
+0c0c0f16 (02) b349                     MOV BL, 0x49
+0c0c0f18 (01) d6                       SALC
+0c0c0f19 (01) 4f                       DEC EDI
+0c0c0f1a (02) b349                     MOV BL, 0x49
+0c0c0f1c (01) d6                       SALC
+0c0c0f1d (01) 4f                       DEC EDI
+0c0c0f1e (02) b349                     MOV BL, 0x49
+0c0c0f20 (01) d6                       SALC
+0c0c0f21 (01) 4f                       DEC EDI
+0c0c0f22 (02) b349                     MOV BL, 0x49
+0c0c0f24 (01) d6                       SALC
+0c0c0f25 (01) 4f                       DEC EDI
+0c0c0f26 (02) b349                     MOV BL, 0x49
+0c0c0f28 (01) d6                       SALC
+0c0c0f29 (01) 4f                       DEC EDI
+0c0c0f2a (02) b349                     MOV BL, 0x49
+0c0c0f2c (01) d6                       SALC
+0c0c0f2d (01) 4f                       DEC EDI
+0c0c0f2e (02) b349                     MOV BL, 0x49
+0c0c0f30 (01) d6                       SALC
+0c0c0f31 (01) 4f                       DEC EDI
+0c0c0f32 (02) b349                     MOV BL, 0x49
+0c0c0f34 (01) d6                       SALC
+0c0c0f35 (01) 4f                       DEC EDI
+0c0c0f36 (02) b349                     MOV BL, 0x49
+0c0c0f38 (01) d6                       SALC
+0c0c0f39 (01) 4f                       DEC EDI
+0c0c0f3a (02) b349                     MOV BL, 0x49
+0c0c0f3c (01) d6                       SALC
+0c0c0f3d (01) 4f                       DEC EDI
+0c0c0f3e (02) b349                     MOV BL, 0x49
+0c0c0f40 (01) d6                       SALC
+0c0c0f41 (01) 4f                       DEC EDI
+0c0c0f42 (02) b349                     MOV BL, 0x49
+0c0c0f44 (01) d6                       SALC
+0c0c0f45 (01) 4f                       DEC EDI
+0c0c0f46 (02) b349                     MOV BL, 0x49
+0c0c0f48 (01) d6                       SALC
+0c0c0f49 (01) 4f                       DEC EDI
+0c0c0f4a (02) b349                     MOV BL, 0x49
+0c0c0f4c (01) d6                       SALC
+0c0c0f4d (01) 4f                       DEC EDI
+0c0c0f4e (02) b349                     MOV BL, 0x49
+0c0c0f50 (01) d6                       SALC
+0c0c0f51 (01) 4f                       DEC EDI
+0c0c0f52 (02) b349                     MOV BL, 0x49
+0c0c0f54 (01) d6                       SALC
+0c0c0f55 (01) 4f                       DEC EDI
+0c0c0f56 (02) b349                     MOV BL, 0x49
+0c0c0f58 (01) d6                       SALC
+0c0c0f59 (01) 4f                       DEC EDI
+0c0c0f5a (02) b349                     MOV BL, 0x49
+0c0c0f5c (01) d6                       SALC
+0c0c0f5d (01) 4f                       DEC EDI
+0c0c0f5e (02) b349                     MOV BL, 0x49
+0c0c0f60 (01) d6                       SALC
+0c0c0f61 (01) 4f                       DEC EDI
+0c0c0f62 (02) b349                     MOV BL, 0x49
+0c0c0f64 (01) d6                       SALC
+0c0c0f65 (01) 4f                       DEC EDI
+0c0c0f66 (02) b349                     MOV BL, 0x49
+0c0c0f68 (01) d6                       SALC
+0c0c0f69 (01) 4f                       DEC EDI
+0c0c0f6a (02) b349                     MOV BL, 0x49
+0c0c0f6c (01) d6                       SALC
+0c0c0f6d (01) 4f                       DEC EDI
+0c0c0f6e (02) b349                     MOV BL, 0x49
+0c0c0f70 (01) d6                       SALC
+0c0c0f71 (01) 4f                       DEC EDI
+0c0c0f72 (02) b349                     MOV BL, 0x49
+0c0c0f74 (01) d6                       SALC
+0c0c0f75 (01) 4f                       DEC EDI
+0c0c0f76 (02) b349                     MOV BL, 0x49
+0c0c0f78 (01) d6                       SALC
+0c0c0f79 (01) 4f                       DEC EDI
+0c0c0f7a (02) b349                     MOV BL, 0x49
+0c0c0f7c (01) d6                       SALC
+0c0c0f7d (01) 4f                       DEC EDI
+0c0c0f7e (02) b349                     MOV BL, 0x49
+0c0c0f80 (01) d6                       SALC
+0c0c0f81 (01) 4f                       DEC EDI
+0c0c0f82 (02) b349                     MOV BL, 0x49
+0c0c0f84 (01) d6                       SALC
+0c0c0f85 (01) 4f                       DEC EDI
+0c0c0f86 (02) b349                     MOV BL, 0x49
+0c0c0f88 (01) d6                       SALC
+0c0c0f89 (01) 4f                       DEC EDI
+0c0c0f8a (02) b349                     MOV BL, 0x49
+0c0c0f8c (01) d6                       SALC
+0c0c0f8d (01) 4f                       DEC EDI
+0c0c0f8e (02) b349                     MOV BL, 0x49
+0c0c0f90 (01) d6                       SALC
+0c0c0f91 (01) 4f                       DEC EDI
+0c0c0f92 (02) b349                     MOV BL, 0x49
+0c0c0f94 (01) d6                       SALC
+0c0c0f95 (01) 4f                       DEC EDI
+0c0c0f96 (02) b349                     MOV BL, 0x49
+0c0c0f98 (01) d6                       SALC
+0c0c0f99 (01) 4f                       DEC EDI
+0c0c0f9a (02) b349                     MOV BL, 0x49
+0c0c0f9c (01) d6                       SALC
+0c0c0f9d (01) 4f                       DEC EDI
+0c0c0f9e (02) b349                     MOV BL, 0x49
+0c0c0fa0 (01) d6                       SALC
+0c0c0fa1 (01) 4f                       DEC EDI
+0c0c0fa2 (02) b349                     MOV BL, 0x49
+0c0c0fa4 (01) d6                       SALC
+0c0c0fa5 (01) 4f                       DEC EDI
+0c0c0fa6 (02) b349                     MOV BL, 0x49
+0c0c0fa8 (01) d6                       SALC
+0c0c0fa9 (01) 4f                       DEC EDI
+0c0c0faa (02) b349                     MOV BL, 0x49
+0c0c0fac (01) d6                       SALC
+0c0c0fad (01) 4f                       DEC EDI
+0c0c0fae (02) b349                     MOV BL, 0x49
+0c0c0fb0 (01) d6                       SALC
+0c0c0fb1 (01) 4f                       DEC EDI
+0c0c0fb2 (02) b349                     MOV BL, 0x49
+0c0c0fb4 (01) d6                       SALC
+0c0c0fb5 (01) 4f                       DEC EDI
+0c0c0fb6 (02) b349                     MOV BL, 0x49
+0c0c0fb8 (01) d6                       SALC
+0c0c0fb9 (01) 4f                       DEC EDI
+0c0c0fba (02) b349                     MOV BL, 0x49
+0c0c0fbc (01) d6                       SALC
+0c0c0fbd (01) 4f                       DEC EDI
+0c0c0fbe (02) b349                     MOV BL, 0x49
+0c0c0fc0 (01) d6                       SALC
+0c0c0fc1 (01) 4f                       DEC EDI
+0c0c0fc2 (02) b349                     MOV BL, 0x49
+0c0c0fc4 (01) d6                       SALC
+0c0c0fc5 (01) 4f                       DEC EDI
+0c0c0fc6 (02) b349                     MOV BL, 0x49
+0c0c0fc8 (01) d6                       SALC
+0c0c0fc9 (01) 4f                       DEC EDI
+0c0c0fca (02) b349                     MOV BL, 0x49
+0c0c0fcc (01) d6                       SALC
+0c0c0fcd (01) 4f                       DEC EDI
+0c0c0fce (02) b349                     MOV BL, 0x49
+0c0c0fd0 (01) d6                       SALC
+0c0c0fd1 (01) 4f                       DEC EDI
+0c0c0fd2 (02) b349                     MOV BL, 0x49
+0c0c0fd4 (01) d6                       SALC
+0c0c0fd5 (01) 4f                       DEC EDI
+0c0c0fd6 (02) b349                     MOV BL, 0x49
+0c0c0fd8 (01) d6                       SALC
+0c0c0fd9 (01) 4f                       DEC EDI
+0c0c0fda (02) b349                     MOV BL, 0x49
+0c0c0fdc (01) d6                       SALC
+0c0c0fdd (01) 4f                       DEC EDI
+0c0c0fde (02) b349                     MOV BL, 0x49
+0c0c0fe0 (01) d6                       SALC
+0c0c0fe1 (01) 4f                       DEC EDI
+0c0c0fe2 (02) b349                     MOV BL, 0x49
+0c0c0fe4 (01) d6                       SALC
+0c0c0fe5 (01) 4f                       DEC EDI
+0c0c0fe6 (02) b349                     MOV BL, 0x49
+0c0c0fe8 (01) d6                       SALC
+0c0c0fe9 (01) 4f                       DEC EDI
+0c0c0fea (02) b349                     MOV BL, 0x49
+0c0c0fec (01) d6                       SALC
+0c0c0fed (01) 4f                       DEC EDI
+0c0c0fee (02) b349                     MOV BL, 0x49
+0c0c0ff0 (01) d6                       SALC
+0c0c0ff1 (01) 4f                       DEC EDI
+0c0c0ff2 (02) b349                     MOV BL, 0x49
+0c0c0ff4 (01) d6                       SALC
+0c0c0ff5 (01) 4f                       DEC EDI
+0c0c0ff6 (02) b349                     MOV BL, 0x49
+0c0c0ff8 (01) d6                       SALC
+0c0c0ff9 (01) 4f                       DEC EDI
+0c0c0ffa (02) b349                     MOV BL, 0x49
+0c0c0ffc (01) d6                       SALC
+0c0c0ffd (01) 4f                       DEC EDI
+0c0c0ffe (02) b349                     MOV BL, 0x49
+0c0c1000 (01) d6                       SALC
+0c0c1001 (01) 4f                       DEC EDI
+0c0c1002 (02) b349                     MOV BL, 0x49
+0c0c1004 (01) d6                       SALC
+0c0c1005 (01) 4f                       DEC EDI
+0c0c1006 (02) b349                     MOV BL, 0x49
+0c0c1008 (01) d6                       SALC
+0c0c1009 (01) 4f                       DEC EDI
+0c0c100a (02) b349                     MOV BL, 0x49
+0c0c100c (01) d6                       SALC
+0c0c100d (01) 4f                       DEC EDI
+0c0c100e (02) b349                     MOV BL, 0x49
+0c0c1010 (01) d6                       SALC
+0c0c1011 (01) 4f                       DEC EDI
+0c0c1012 (02) b349                     MOV BL, 0x49
+0c0c1014 (01) d6                       SALC
+0c0c1015 (01) 4f                       DEC EDI
+0c0c1016 (02) b349                     MOV BL, 0x49
+0c0c1018 (01) d6                       SALC
+0c0c1019 (01) 4f                       DEC EDI
+0c0c101a (02) b349                     MOV BL, 0x49
+0c0c101c (01) d6                       SALC
+0c0c101d (01) 4f                       DEC EDI
+0c0c101e (02) b349                     MOV BL, 0x49
+0c0c1020 (01) d6                       SALC
+0c0c1021 (01) 4f                       DEC EDI
+0c0c1022 (02) b349                     MOV BL, 0x49
+0c0c1024 (02) eb71                     JMP 0x24a
+0c0c1026 (02) 33c9                     XOR ECX, ECX
+0c0c1028 (04) 648b7130                 MOV ESI, [FS:ECX+0x30]
+0c0c102c (03) 8b760c                   MOV ESI, [ESI+0xc]
+0c0c102f (03) 8b761c                   MOV ESI, [ESI+0x1c]
+0c0c1032 (03) 8b5e08                   MOV EBX, [ESI+0x8]
+0c0c1035 (03) 8b7e20                   MOV EDI, [ESI+0x20]
+0c0c1038 (02) 8b36                     MOV ESI, [ESI]
+0c0c103a (04) 66394f18                 CMP [EDI+0x18], CX
+0c0c103e (02) 75f2                     JNZ 0x1e5
+0c0c1040 (01) c3                       RET
+0c0c1041 (01) 60                       PUSHA
+0c0c1042 (04) 8b6c2424                 MOV EBP, [ESP+0x24]
+0c0c1046 (03) 8b453c                   MOV EAX, [EBP+0x3c]
+0c0c1049 (04) 8b542878                 MOV EDX, [EAX+EBP+0x78]
+0c0c104d (02) 03d5                     ADD EDX, EBP
+0c0c104f (03) 8b4a18                   MOV ECX, [EDX+0x18]
+0c0c1052 (03) 8b5a20                   MOV EBX, [EDX+0x20]
+0c0c1055 (02) 03dd                     ADD EBX, EBP
+0c0c1057 (02) e334                     JECXZ 0x240
+0c0c1059 (01) 49                       DEC ECX
+0c0c105a (03) 8b348b                   MOV ESI, [EBX+ECX*4]
+0c0c105d (02) 03f5                     ADD ESI, EBP
+0c0c105f (02) 33ff                     XOR EDI, EDI
+0c0c1061 (02) 33c0                     XOR EAX, EAX
+0c0c1063 (01) fc                       CLD
+0c0c1064 (01) ac                       LODSB
+0c0c1065 (02) 84c0                     TEST AL, AL
+0c0c1067 (02) 7407                     JZ 0x223
+0c0c1069 (03) c1cf0d                   ROR EDI, 0xd
+0c0c106c (02) 03f8                     ADD EDI, EAX
+0c0c106e (02) ebf4                     JMP 0x217
+0c0c1070 (04) 3b7c2428                 CMP EDI, [ESP+0x28]
+0c0c1074 (02) 75e1                     JNZ 0x20a
+0c0c1076 (03) 8b5a24                   MOV EBX, [EDX+0x24]
+0c0c1079 (02) 03dd                     ADD EBX, EBP
+0c0c107b (04) 668b0c4b                 MOV CX, [EBX+ECX*2]
+0c0c107f (03) 8b5a1c                   MOV EBX, [EDX+0x1c]
+0c0c1082 (02) 03dd                     ADD EBX, EBP
+0c0c1084 (03) 8b048b                   MOV EAX, [EBX+ECX*4]
+0c0c1087 (02) 03c5                     ADD EAX, EBP
+0c0c1089 (04) 8944241c                 MOV [ESP+0x1c], EAX
+0c0c108d (01) 61                       POPA
+0c0c108e (01) c3                       RET
+0c0c108f (05) e892ffffff               CALL 0x1d9
+0c0c1094 (01) 5d                       POP EBP
+0c0c1095 (02) eb05                     JMP 0x24f
+0c0c1097 (05) e8f3ffffff               CALL 0x242
+0c0c109c (02) 8bfd                     MOV EDI, EBP
+0c0c109e (06) 81ef08ffffff             SUB EDI, 0xffffff08
+0c0c10a4 (02) 8bf5                     MOV ESI, EBP
+0c0c10a6 (06) 81ee76ffffff             SUB ESI, 0xffffff76
+0c0c10ac (06) 81ed70ffffff             SUB EBP, 0xffffff70
+0c0c10b2 (05) 6833ca8a5b               PUSH DWORD 0x5b8aca33
+0c0c10b7 (01) 53                       PUSH EBX
+0c0c10b8 (05) e884ffffff               CALL 0x1f4
+0c0c10bd (01) 55                       PUSH EBP
+0c0c10be (02) 6a64                     PUSH 0x64
+0c0c10c0 (02) ffd0                     CALL EAX
+0c0c10c2 (01) 57                       PUSH EDI
+0c0c10c3 (02) 8bf8                     MOV EDI, EAX
+0c0c10c5 (02) 03fd                     ADD EDI, EBP
+0c0c10c7 (01) a4                       MOVSB
+0c0c10c8 (04) 807fff00                 CMP BYTE [EDI-0x1], 0x0
+0c0c10cc (02) 75f9                     JNZ 0x27a
+0c0c10ce (01) 5f                       POP EDI
+0c0c10cf (05) 688e4e0eec               PUSH DWORD 0xec0e4e8e
+0c0c10d4 (01) 53                       PUSH EBX
+0c0c10d5 (05) e867ffffff               CALL 0x1f4
+0c0c10da (02) 33c9                     XOR ECX, ECX
+0c0c10dc (04) 66b96f6e                 MOV CX, 0x6e6f
+0c0c10e0 (01) 51                       PUSH ECX
+0c0c10e1 (05) 6875726c6d               PUSH DWORD 0x6d6c7275
+0c0c10e6 (01) 54                       PUSH ESP
+0c0c10e7 (02) ffd0                     CALL EAX
+0c0c10e9 (05) 68361a2f70               PUSH DWORD 0x702f1a36
+0c0c10ee (01) 50                       PUSH EAX
+0c0c10ef (05) e84dffffff               CALL 0x1f4
+0c0c10f4 (02) 33c9                     XOR ECX, ECX
+0c0c10f6 (01) 51                       PUSH ECX
+0c0c10f7 (01) 51                       PUSH ECX
+0c0c10f8 (02) 8d37                     LEA ESI, [EDI]
+0c0c10fa (06) 81c698ffffff             ADD ESI, 0xffffff98
+0c0c1100 (01) 56                       PUSH ESI
+0c0c1101 (01) 57                       PUSH EDI
+0c0c1102 (01) 51                       PUSH ECX
+0c0c1103 (02) ffd0                     CALL EAX
+0c0c1105 (02) 0bc0                     OR EAX, EAX
+0c0c1107 (02) 7510                     JNZ 0x2cc
+0c0c1109 (05) 6898fe8a0e               PUSH DWORD 0xe8afe98
+0c0c110e (01) 53                       PUSH EBX
+0c0c110f (05) e82dffffff               CALL 0x1f4
+0c0c1114 (01) 41                       INC ECX
+0c0c1115 (01) 51                       PUSH ECX
+0c0c1116 (01) 56                       PUSH ESI
+0c0c1117 (02) ffd0                     CALL EAX
+0c0c1119 (05) 687ed8e273               PUSH DWORD 0x73e2d87e
+0c0c111e (01) 53                       PUSH EBX
+0c0c111f (05) e81dffffff               CALL 0x1f4
+0c0c1124 (02) ffd0                     CALL EAX
+0c0c1126 (02) 782e                     JS 0x309
+0c0c1128 (03) 657865                   JS 0x343
+0c0c112b (02) 0021                     ADD [ECX], AH
+0c0c112d (02) 2121                     AND [ECX], ESP
+0c0c112f (02) 2121                     AND [ECX], ESP
+0c0c1131 (02) 2121                     AND [ECX], ESP
+0c0c1133 (02) 2121                     AND [ECX], ESP
+0c0c1135 (02) 2121                     AND [ECX], ESP
+0c0c1137 (02) 2121                     AND [ECX], ESP
+0c0c1139 (02) 2121                     AND [ECX], ESP
+0c0c113b (02) 2121                     AND [ECX], ESP
+0c0c113d (02) 2121                     AND [ECX], ESP
+0c0c113f (02) 2121                     AND [ECX], ESP
+0c0c1141 (02) 2121                     AND [ECX], ESP
+0c0c1143 (02) 2121                     AND [ECX], ESP
+0c0c1145 (02) 2121                     AND [ECX], ESP
+0c0c1147 (02) 2121                     AND [ECX], ESP
+0c0c1149 (02) 2121                     AND [ECX], ESP
+0c0c114b (02) 2121                     AND [ECX], ESP
+0c0c114d (02) 2121                     AND [ECX], ESP
+0c0c114f (02) 2121                     AND [ECX], ESP
+0c0c1151 (02) 2121                     AND [ECX], ESP
+0c0c1153 (02) 2121                     AND [ECX], ESP
+0c0c1155 (02) 2121                     AND [ECX], ESP
+0c0c1157 (02) 2121                     AND [ECX], ESP
+0c0c1159 (02) 2121                     AND [ECX], ESP
+0c0c115b (02) 2121                     AND [ECX], ESP
+0c0c115d (02) 2121                     AND [ECX], ESP
+0c0c115f (02) 2121                     AND [ECX], ESP
+0c0c1161 (02) 2121                     AND [ECX], ESP
+0c0c1163 (02) 2121                     AND [ECX], ESP
+0c0c1165 (02) 2121                     AND [ECX], ESP
+0c0c1167 (02) 2121                     AND [ECX], ESP
+0c0c1169 (02) 2121                     AND [ECX], ESP
+0c0c116b (02) 2121                     AND [ECX], ESP
+0c0c116d (02) 2121                     AND [ECX], ESP
+0c0c116f (02) 2121                     AND [ECX], ESP
+0c0c1171 (02) 2121                     AND [ECX], ESP
+0c0c1173 (02) 2121                     AND [ECX], ESP
+0c0c1175 (02) 2121                     AND [ECX], ESP
+0c0c1177 (02) 2121                     AND [ECX], ESP
+0c0c1179 (02) 2121                     AND [ECX], ESP
+0c0c117b (02) 2121                     AND [ECX], ESP
+0c0c117d (02) 2121                     AND [ECX], ESP
+0c0c117f (02) 2121                     AND [ECX], ESP
+0c0c1181 (02) 2121                     AND [ECX], ESP
+0c0c1183 (02) 2121                     AND [ECX], ESP
+0c0c1185 (02) 2121                     AND [ECX], ESP
+0c0c1187 (02) 2121                     AND [ECX], ESP
+0c0c1189 (02) 2121                     AND [ECX], ESP
+0c0c118b (02) 2121                     AND [ECX], ESP
+0c0c118d (02) 2121                     AND [ECX], ESP
+0c0c118f (02) 21de                     AND ESI, EBX
+0c0c1191 (07) c0afda68747470           SHR BYTE [EDI+0x747468da], 0x70
+0c0c1198 (02) 3a2f                     CMP CH, [EDI]
+0c0c119a (01) 2f                       DAS
+0c0c119b (02) 7369                     JAE 0x3b9
+0c0c119d (01) 6e                       OUTS DX, [ESI]
+0c0c119e (01) 61                       POPA
+0c0c119f (08) 6469722e636f6d2f         IMUL ESI, [FS:EDX+0x2e], 0x2f6d6f63
+0c0c11a7 (02) 7465                     JZ 0x3c1
+0c0c11a9 (02) 7374                     JAE 0x3d2
+0c0c11ab (04) 2e657865                 JS 0x3c7 ;NOT TAKEN
+0c0c11af (02) 0000                     ADD [EAX], AL
+0c0c11b1 (02) 0000                     ADD [EAX], AL
+0c0c11b3 (02) 0000                     ADD [EAX], AL
+0c0c11b5 (02) 0000                     ADD [EAX], AL
+0c0c11b7 (02) 0008                     ADD [EAX], CL
+0c0c11b9 (02) 0000                     ADD [EAX], AL
+0c0c11bb (02) 0000                     ADD [EAX], AL
+0c0c11bd (02) 0000                     ADD [EAX], AL
+0c0c11bf (02) 0000                     ADD [EAX], AL
+0c0c11c1 (02) 0000                     ADD [EAX], AL
+0c0c11c3 (03) 000c0c                   ADD [ESP+ECX], CL
+0c0c11c6 (02) 0c0c                     OR AL, 0xc
+0c0c11c8 (02) 0c0c                     OR AL, 0xc
+0c0c11ca (02) 0c0c                     OR AL, 0xc
+0c0c11cc (02) 0c0c                     OR AL, 0xc
+0c0c11ce (02) 0c0c                     OR AL, 0xc
+0c0c11d0 (02) 0c0c                     OR AL, 0xc
+0c0c11d2 (02) 0c0c                     OR AL, 0xc
+0c0c11d4 (02) 0c0c                     OR AL, 0xc
+0c0c11d6 (02) 0c0c                     OR AL, 0xc
+0c0c11d8 (02) 0c0c                     OR AL, 0xc
+0c0c11da (02) 0c0c                     OR AL, 0xc
+0c0c11dc (02) 0c0c                     OR AL, 0xc
+0c0c11de (02) 0c0c                     OR AL, 0xc
+0c0c11e0 (02) 0c0c                     OR AL, 0xc
+0c0c11e2 (02) 0c0c                     OR AL, 0xc
+0c0c11e4 (02) 0c0c                     OR AL, 0xc
+0c0c11e6 (02) 0c0c                     OR AL, 0xc
+0c0c11e8 (02) 0c0c                     OR AL, 0xc
+0c0c11ea (02) 0c0c                     OR AL, 0xc
+0c0c11ec (02) 0c0c                     OR AL, 0xc
+0c0c11ee (02) 0c0c                     OR AL, 0xc
+0c0c11f0 (02) 0c0c                     OR AL, 0xc
+0c0c11f2 (02) 0c0c                     OR AL, 0xc
+0c0c11f4 (02) 0c0c                     OR AL, 0xc
+0c0c11f6 (02) 0c0c                     OR AL, 0xc
+0c0c11f8 (02) 0c0c                     OR AL, 0xc
+0c0c11fa (02) 0c0c                     OR AL, 0xc
+0c0c11fc (02) 0c0c                     OR AL, 0xc
+0c0c11fe (02) 0c0c                     OR AL, 0xc
+0c0c1200 (02) 0c0c                     OR AL, 0xc
+0c0c1202 (02) 0c0c                     OR AL, 0xc
+0c0c1204 (02) 0c0c                     OR AL, 0xc
+0c0c1206 (02) 0c0c                     OR AL, 0xc
+0c0c1208 (02) 0c0c                     OR AL, 0xc
+0c0c120a (02) 0c0c                     OR AL, 0xc
+0c0c120c (02) 0c0c                     OR AL, 0xc
+0c0c120e (02) 0c0c                     OR AL, 0xc
+0c0c1210 (02) 0c0c                     OR AL, 0xc
+0c0c1212 (02) 0c0c                     OR AL, 0xc
+0c0c1214 (02) 0c0c                     OR AL, 0xc
+0c0c1216 (02) 0c0c                     OR AL, 0xc
+0c0c1218 (02) 0c0c                     OR AL, 0xc
+0c0c121a (02) 0c0c                     OR AL, 0xc
+0c0c121c (02) 0c0c                     OR AL, 0xc
+0c0c121e (02) 0c0c                     OR AL, 0xc
+0c0c1220 (02) 0c0c                     OR AL, 0xc
+0c0c1222 (02) 0c0c                     OR AL, 0xc
+0c0c1224 (02) 0c0c                     OR AL, 0xc
+0c0c1226 (02) 0c0c                     OR AL, 0xc
+0c0c1228 (02) 0c0c                     OR AL, 0xc
+0c0c122a (02) 0c0c                     OR AL, 0xc
+0c0c122c (02) 0c0c                     OR AL, 0xc
+0c0c122e (02) 0c0c                     OR AL, 0xc
+0c0c1230 (02) 0c0c                     OR AL, 0xc
+0c0c1232 (02) 0c0c                     OR AL, 0xc
+0c0c1234 (02) 0c0c                     OR AL, 0xc
+0c0c1236 (02) 0c0c                     OR AL, 0xc
+0c0c1238 (02) 0c0c                     OR AL, 0xc
+0c0c123a (02) 0c0c                     OR AL, 0xc
+0c0c123c (02) 0c0c                     OR AL, 0xc
+0c0c123e (02) 0c0c                     OR AL, 0xc
+0c0c1240 (02) 0c0c                     OR AL, 0xc
+0c0c1242 (02) 0c0c                     OR AL, 0xc
+0c0c1244 (02) 0c0c                     OR AL, 0xc
+0c0c1246 (02) 0c0c                     OR AL, 0xc
+0c0c1248 (02) 0c0c                     OR AL, 0xc
+0c0c124a (02) 0c0c                     OR AL, 0xc
+0c0c124c (01) 0c                       DB 0xc

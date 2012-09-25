@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\mxml">
+      <UniqueIdentifier>{89e17be3-e33e-4971-bb9c-cef0af860d66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files\mxml">
+      <UniqueIdentifier>{00f13cfe-e453-4b24-a032-3d3ca871e13e}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="targetver.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PEUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LogInfo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ShellcodeUtils.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hook.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LdrList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ParsConfig.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="ModuleAutoInject.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="XmlLog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="mxml\src\mxml-2.7\mxml.h">
+      <Filter>Header Files\mxml</Filter>
+    </ClInclude>
+    <ClInclude Include="mxml\src\mxml-2.7\mxml-private.h">
+      <Filter>Header Files\mxml</Filter>
+    </ClInclude>
+    <ClInclude Include="mxml\src\mxml-2.7\vcnet\config.h">
+      <Filter>Header Files\mxml</Filter>
+    </ClInclude>
+    <ClInclude Include="ETAV_DebugBreak.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="RopDetection.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="resource.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="GeneralProtections.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Hash.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="PEUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LogInfo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ShellcodeUtils.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LdrList.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ParsConfig.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="inih\ini.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModuleAutoInject.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="XmlLog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-attr.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-entity.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-file.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-get.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-index.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-node.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-private.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-search.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-set.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="mxml\src\mxml-2.7\mxml-string.c">
+      <Filter>Source Files\mxml</Filter>
+    </ClCompile>
+    <ClCompile Include="Hook.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="MCEDP_Main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="RopDetection.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ETAV_DebugBreak.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="GeneralProtections.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Hash.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <MASM Include="RopPrologue_32.asm">
+      <Filter>Source Files</Filter>
+    </MASM>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="MCEDP.rc">
+      <Filter>Resource Files</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="lgpl.txt" />
+  </ItemGroup>
+</Project>
