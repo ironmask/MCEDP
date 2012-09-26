@@ -79,3 +79,6 @@ It’s the first beta version of MCEDP and its manager (for feeding input [URL] 
 
 
 Your opinion means a great deal to us; Please let me know your ideas about this project to help me improve it in the future.
+
+-Shahriyar Jalayeri
+twitter.com/ponez
